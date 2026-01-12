@@ -26,12 +26,5 @@
     "password": "ck255",
     "expiresAt": "2026-5-5",
     "allowOffline": false
-  },
-  {
-    "id": "a7899ddaf625cd1e",
-    "username": "abuu",
-    "password": "abuu",
-    "expiresAt": "2026-5-5",
-    "allowOffline": false
   }
 ]
