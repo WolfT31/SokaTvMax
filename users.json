@@ -110,5 +110,12 @@
     "password": "gorge",
     "expiresAt": "2026-5-5",
     "allowOffline": false
+  },
+  {
+    "id": "54593e9db2021476",
+    "username": "soka",
+    "password": "soka",
+    "expiresAt": "2026-5-5",
+    "allowOffline": false
   }
 ]
