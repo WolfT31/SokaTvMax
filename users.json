@@ -117,5 +117,12 @@
     "password": "soka",
     "expiresAt": "2026-5-5",
     "allowOffline": false
+  },
+  {
+    "id": "a702835f32abbbbd",
+    "username": "jax",
+    "password": "jax",
+    "expiresAt": "2026-5-5",
+    "allowOffline": false
   }
 ]
