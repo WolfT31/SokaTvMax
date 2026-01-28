@@ -131,5 +131,12 @@
     "password": "ck",
     "expiresAt": "2026-5-5",
     "allowOffline": false
+  },
+  {
+    "id": "8d4a4f8a60e69a77",
+    "username": "Msagati",
+    "password": "Msagati",
+    "expiresAt": "2026-5-5",
+    "allowOffline": false
   }
 ]
