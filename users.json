@@ -159,5 +159,12 @@
     "password": "junior",
     "expiresAt": "2026-12-12",
     "allowOffline": false
+  },
+  {
+    "id": "6d26aa91ff11184f",
+    "username": "michael",
+    "password": "michael",
+    "expiresAt": "2026-9-9",
+    "allowOffline": false
   }
 ]
