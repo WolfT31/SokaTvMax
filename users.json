@@ -152,5 +152,12 @@
     "password": "idy",
     "expiresAt": "2026-5-5",
     "allowOffline": false
+  },
+  {
+    "id": "d78a816219ae1f40",
+    "username": "junior",
+    "password": "junior",
+    "expiresAt": "2026-12-12",
+    "allowOffline": false
   }
 ]
